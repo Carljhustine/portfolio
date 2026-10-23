@@ -1,0 +1,8 @@
+/config/credentials.php
+/config/local.php
+*.log
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+vendor/
